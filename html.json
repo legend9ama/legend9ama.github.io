@@ -16,5 +16,25 @@
 	"</html>"
     ],
     "description": "My snip"
+  },
+  "BasicSnip": {
+    "prefix": "basic_snip", 
+    "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"lt\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta name=\"author\" content=\"MatKhad\">",
+    "    <meta name=\"description\" content=\"Basic HTML document for lab assignment\">",
+    "    <title>First Lab</title>",
+    "    <!-- MatKhad 20242846-->",
+    "    <link>",
+    "</head>",
+    "<body>",
+    "",
+    "</body>",
+    "</html>"
+    ],
+    "description": "Basic Snip"
   }
 }
